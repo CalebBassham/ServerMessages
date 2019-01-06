@@ -1,4 +1,5 @@
 name: ServerMessages
 version: 1.0.0-SNAPSHOT
+author: Caleb Bassham
 api-version: 1.13
 main: me.calebbassham.servermessages.ServerMessages
